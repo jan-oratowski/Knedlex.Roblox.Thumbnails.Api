@@ -48,7 +48,6 @@ src/Knedlex.Roblox.Thumbnails.ApiV1/Client/Multimap.cs
 src/Knedlex.Roblox.Thumbnails.ApiV1/Client/OpenAPIDateConverter.cs
 src/Knedlex.Roblox.Thumbnails.ApiV1/Client/RequestOptions.cs
 src/Knedlex.Roblox.Thumbnails.ApiV1/Client/RetryConfiguration.cs
-src/Knedlex.Roblox.Thumbnails.ApiV1/Knedlex.Roblox.Thumbnails.ApiV1.csproj
 src/Knedlex.Roblox.Thumbnails.ApiV1/Model/AbstractOpenAPISchema.cs
 src/Knedlex.Roblox.Thumbnails.ApiV1/Model/RobloxThumbnailsApiModelsUniverseThumbnailsResponse.cs
 src/Knedlex.Roblox.Thumbnails.ApiV1/Model/RobloxThumbnailsApisModelsThumbnailBatchRequest.cs

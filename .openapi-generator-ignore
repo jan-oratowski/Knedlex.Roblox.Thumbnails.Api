@@ -27,4 +27,4 @@ appveyor.yml
 git_push.sh
 
 Knedlex.Roblox.Thumbnails.ApiV1.sln
-src\Knedlex.Roblox.Thumbnails.ApiV1\Knedlex.Roblox.Thumbnails.ApiV1.csproj
+src/Knedlex.Roblox.Thumbnails.ApiV1/Knedlex.Roblox.Thumbnails.ApiV1.csproj
