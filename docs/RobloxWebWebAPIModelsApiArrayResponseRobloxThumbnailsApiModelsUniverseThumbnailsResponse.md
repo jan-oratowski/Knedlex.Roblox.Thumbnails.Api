@@ -1,4 +1,4 @@
-# Knedlex.Roblox.Thumbnails.Api.Model.RobloxWebWebAPIModelsApiArrayResponseRobloxThumbnailsApiModelsUniverseThumbnailsResponse
+# Knedlex.Roblox.Thumbnails.ApiV1.Model.RobloxWebWebAPIModelsApiArrayResponseRobloxThumbnailsApiModelsUniverseThumbnailsResponse
 
 ## Properties
 

@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knedlex.Roblox.Thumbnails.ApiV1", "src\Knedlex.Roblox.Thumbnails.ApiV1\Knedlex.Roblox.Thumbnails.ApiV1.csproj", "{EA1105A1-3E16-41FC-A636-D012423832A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knedlex.Roblox.Thumbnails.ApiV1.Test", "src\Knedlex.Roblox.Thumbnails.ApiV1.Test\Knedlex.Roblox.Thumbnails.ApiV1.Test.csproj", "{19F1DEBC-DE5E-4517-8062-F000CD499087}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA1105A1-3E16-41FC-A636-D012423832A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA1105A1-3E16-41FC-A636-D012423832A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA1105A1-3E16-41FC-A636-D012423832A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA1105A1-3E16-41FC-A636-D012423832A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19F1DEBC-DE5E-4517-8062-F000CD499087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19F1DEBC-DE5E-4517-8062-F000CD499087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19F1DEBC-DE5E-4517-8062-F000CD499087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19F1DEBC-DE5E-4517-8062-F000CD499087}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

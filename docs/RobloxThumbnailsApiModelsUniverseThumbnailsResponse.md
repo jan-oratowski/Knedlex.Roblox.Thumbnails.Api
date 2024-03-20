@@ -1,4 +1,4 @@
-# Knedlex.Roblox.Thumbnails.Api.Model.RobloxThumbnailsApiModelsUniverseThumbnailsResponse
+# Knedlex.Roblox.Thumbnails.ApiV1.Model.RobloxThumbnailsApiModelsUniverseThumbnailsResponse
 A response model for thumbnails which belong to a specific universe ID
 
 ## Properties

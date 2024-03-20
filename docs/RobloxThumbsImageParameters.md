@@ -1,4 +1,4 @@
-# Knedlex.Roblox.Thumbnails.Api.Model.RobloxThumbsImageParameters
+# Knedlex.Roblox.Thumbnails.ApiV1.Model.RobloxThumbsImageParameters
 
 ## Properties
 

@@ -1,4 +1,4 @@
-# Knedlex.Roblox.Thumbnails.Api.Api.OutfitsApi
+# Knedlex.Roblox.Thumbnails.ApiV1.Api.OutfitsApi
 
 All URIs are relative to *https://thumbnails.roblox.com*
 
@@ -17,9 +17,9 @@ Get 3d object for an outfit
 ```csharp
 using System.Collections.Generic;
 using System.Diagnostics;
-using Knedlex.Roblox.Thumbnails.Api.Api;
-using Knedlex.Roblox.Thumbnails.Api.Client;
-using Knedlex.Roblox.Thumbnails.Api.Model;
+using Knedlex.Roblox.Thumbnails.ApiV1.Api;
+using Knedlex.Roblox.Thumbnails.ApiV1.Client;
+using Knedlex.Roblox.Thumbnails.ApiV1.Model;
 
 namespace Example
 {
@@ -106,9 +106,9 @@ Get outfits for the given CSV of userOutfitIds
 ```csharp
 using System.Collections.Generic;
 using System.Diagnostics;
-using Knedlex.Roblox.Thumbnails.Api.Api;
-using Knedlex.Roblox.Thumbnails.Api.Client;
-using Knedlex.Roblox.Thumbnails.Api.Model;
+using Knedlex.Roblox.Thumbnails.ApiV1.Api;
+using Knedlex.Roblox.Thumbnails.ApiV1.Client;
+using Knedlex.Roblox.Thumbnails.ApiV1.Model;
 
 namespace Example
 {

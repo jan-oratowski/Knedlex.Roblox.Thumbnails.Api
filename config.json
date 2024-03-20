@@ -1,6 +1,6 @@
 {
-  "apiName": "RobloxThumbnails",
+  "apiName": "RobloxThumbnailsV1",
   "netCoreProjectFile": true,
   "targetFramework": "netstandard2.0",
-  "packageName": "Knedlex.Roblox.Thumbnails.Api"
+  "packageName": "Knedlex.Roblox.Thumbnails.ApiV1"
 }

@@ -1,4 +1,4 @@
-# Knedlex.Roblox.Thumbnails.Api.Api.GamesApi
+# Knedlex.Roblox.Thumbnails.ApiV1.Api.GamesApi
 
 All URIs are relative to *https://thumbnails.roblox.com*
 
@@ -18,9 +18,9 @@ Fetches game icon URLs for a list of universes' root places. Ids that do not cor
 ```csharp
 using System.Collections.Generic;
 using System.Diagnostics;
-using Knedlex.Roblox.Thumbnails.Api.Api;
-using Knedlex.Roblox.Thumbnails.Api.Client;
-using Knedlex.Roblox.Thumbnails.Api.Model;
+using Knedlex.Roblox.Thumbnails.ApiV1.Api;
+using Knedlex.Roblox.Thumbnails.ApiV1.Client;
+using Knedlex.Roblox.Thumbnails.ApiV1.Model;
 
 namespace Example
 {
@@ -117,9 +117,9 @@ Fetch game thumbnail URLs for a list of universe IDs.
 ```csharp
 using System.Collections.Generic;
 using System.Diagnostics;
-using Knedlex.Roblox.Thumbnails.Api.Api;
-using Knedlex.Roblox.Thumbnails.Api.Client;
-using Knedlex.Roblox.Thumbnails.Api.Model;
+using Knedlex.Roblox.Thumbnails.ApiV1.Api;
+using Knedlex.Roblox.Thumbnails.ApiV1.Client;
+using Knedlex.Roblox.Thumbnails.ApiV1.Model;
 
 namespace Example
 {
@@ -217,9 +217,9 @@ Fetches game thumbnail URLs for a list of universes' thumbnail ids. Ids that do 
 ```csharp
 using System.Collections.Generic;
 using System.Diagnostics;
-using Knedlex.Roblox.Thumbnails.Api.Api;
-using Knedlex.Roblox.Thumbnails.Api.Client;
-using Knedlex.Roblox.Thumbnails.Api.Model;
+using Knedlex.Roblox.Thumbnails.ApiV1.Api;
+using Knedlex.Roblox.Thumbnails.ApiV1.Client;
+using Knedlex.Roblox.Thumbnails.ApiV1.Model;
 
 namespace Example
 {

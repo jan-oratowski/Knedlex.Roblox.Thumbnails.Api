@@ -1,4 +1,4 @@
-# Knedlex.Roblox.Thumbnails.Api.Model.RobloxWebWebAPIModelsApiErrorModel
+# Knedlex.Roblox.Thumbnails.ApiV1.Model.RobloxWebWebAPIModelsApiErrorModel
 
 ## Properties
 

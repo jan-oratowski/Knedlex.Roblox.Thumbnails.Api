@@ -1,4 +1,4 @@
-# Knedlex.Roblox.Thumbnails.Api.Api.PlacesApi
+# Knedlex.Roblox.Thumbnails.ApiV1.Api.PlacesApi
 
 All URIs are relative to *https://thumbnails.roblox.com*
 
@@ -16,9 +16,9 @@ Fetches game icon URLs for a list of places. Ids that do not correspond to a val
 ```csharp
 using System.Collections.Generic;
 using System.Diagnostics;
-using Knedlex.Roblox.Thumbnails.Api.Api;
-using Knedlex.Roblox.Thumbnails.Api.Client;
-using Knedlex.Roblox.Thumbnails.Api.Model;
+using Knedlex.Roblox.Thumbnails.ApiV1.Api;
+using Knedlex.Roblox.Thumbnails.ApiV1.Client;
+using Knedlex.Roblox.Thumbnails.ApiV1.Model;
 
 namespace Example
 {

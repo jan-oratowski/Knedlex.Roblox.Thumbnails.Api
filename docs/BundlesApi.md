@@ -1,4 +1,4 @@
-# Knedlex.Roblox.Thumbnails.Api.Api.BundlesApi
+# Knedlex.Roblox.Thumbnails.ApiV1.Api.BundlesApi
 
 All URIs are relative to *https://thumbnails.roblox.com*
 
@@ -16,9 +16,9 @@ Get bundle thumbnails for the given CSV of bundle ids
 ```csharp
 using System.Collections.Generic;
 using System.Diagnostics;
-using Knedlex.Roblox.Thumbnails.Api.Api;
-using Knedlex.Roblox.Thumbnails.Api.Client;
-using Knedlex.Roblox.Thumbnails.Api.Model;
+using Knedlex.Roblox.Thumbnails.ApiV1.Api;
+using Knedlex.Roblox.Thumbnails.ApiV1.Client;
+using Knedlex.Roblox.Thumbnails.ApiV1.Model;
 
 namespace Example
 {

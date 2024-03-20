@@ -1,4 +1,4 @@
-# Knedlex.Roblox.Thumbnails.Api.Api.GroupEmblemApi
+# Knedlex.Roblox.Thumbnails.ApiV1.Api.GroupEmblemApi
 
 All URIs are relative to *https://thumbnails.roblox.com*
 
@@ -16,9 +16,9 @@ Fetches thumbnail URLs for a list of groups. Ids that do not correspond to group
 ```csharp
 using System.Collections.Generic;
 using System.Diagnostics;
-using Knedlex.Roblox.Thumbnails.Api.Api;
-using Knedlex.Roblox.Thumbnails.Api.Client;
-using Knedlex.Roblox.Thumbnails.Api.Model;
+using Knedlex.Roblox.Thumbnails.ApiV1.Api;
+using Knedlex.Roblox.Thumbnails.ApiV1.Client;
+using Knedlex.Roblox.Thumbnails.ApiV1.Model;
 
 namespace Example
 {
